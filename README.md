@@ -27,6 +27,8 @@ The Number Management Microservice is a simple HTTP microservice developed in No
 
 ### Usage
 Access the microservice by making a GET request to the following endpoint:
-    ```bash
-    http://localhost:8008/numbers?url=<URL1>&url=<URL2>&...
+
+   ```bash
+   http://localhost:8008/numbers?url=<URL1>&url=<URL2>&...
+
 
